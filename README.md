@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yevhen, senior full stack developer with 10 years of professional software development experience.
-- 👀 I’m interested in JS/TS, PHP based frameworks for full stack development. 
+- 👀 I’m interested in JS/TS, PHP based frameworks for full stack development. I am also interested in Native programming with C++, Java, Python, Dart...
 - 🌱 I’m currently learning Blockchain technology much harder.
 - 💞️ I’m looking to collaborate on full stack, frontend, blockchain development with you!
 
